@@ -538,6 +538,10 @@ public class StreamingAudioEncoder {
   }
 
   static {
-    System.loadLibrary("ogg_opus_encoder");
+    try {
+      System.loadLibrary("ogg_opus_encoder");
+    } catch (UnsatisfiedLinkError error) {
+      logger.atSevere().log("Library libogg_opus_encoder.so not found.");
+    }
   }
 }

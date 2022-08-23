@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
                 CloudSpeechSessionParams.EncoderParams.newBuilder()
                     .setEnableEncoder(true)
                     .setAllowVbr(true)
-                    .setCodec(CodecAndBitrate.OGG_OPUS_BITRATE_32KBPS))
+                    .setCodec(CodecAndBitrate.UNDEFINED))
             .build();
     networkChecker = new NetworkConnectionChecker(this);
     networkChecker.registerNetworkCallback();

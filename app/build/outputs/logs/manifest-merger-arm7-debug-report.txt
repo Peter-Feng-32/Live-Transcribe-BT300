@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:5:3-76
+	android:name
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:5:20-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:6:3-64
+	android:name
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:6:20-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:7:3-68
+	android:name
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:7:20-66
+application
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:9:3-24:17
+	android:supportsRtl
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:14:7-33
+	android:label
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:12:7-39
+	android:roundIcon
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:13:7-52
+	android:icon
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:10:7-33
+	android:theme
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.google.audio.MainActivity
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:16:5-23:16
+	android:exported
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:18:9-32
+	android:name
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:21:19-66
+uses-sdk
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml

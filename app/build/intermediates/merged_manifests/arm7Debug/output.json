@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-arm7-debug.aar","fullName":"arm7Debug","baseName":"arm7-debug"},"path":"../../library_manifest/arm7Debug/AndroidManifest.xml","properties":{"packageId":"com.google.audio","split":""}}]
