@@ -3,7 +3,11 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-speech-v1p1beta1/0.63.0/e486b78941ed958e16fb758ce2fa53928578b06e/proto-google-cloud-speech-v1p1beta1-0.63.0.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-speech-v1p1beta1/0.63.0/bec1bf9fa897ff67aa68f2312874300e363df901/proto-google-cloud-speech-v1p1beta1-0.63.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-speech-v1p1beta1/0.63.0/358a60aea2a5f9fe5547e9df50d6d83c4967f60f/proto-google-cloud-speech-v1p1beta1-0.63.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

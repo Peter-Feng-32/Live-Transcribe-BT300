@@ -2,7 +2,6 @@
   <library name="Gradle: com.android.support.test:monitor:1.0.2@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cda8befc5f140c29281052b0f90cd65b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cda8befc5f140c29281052b0f90cd65b/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cda8befc5f140c29281052b0f90cd65b/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />

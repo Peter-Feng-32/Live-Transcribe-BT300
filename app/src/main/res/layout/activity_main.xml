@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#000000"
     tools:context=".MainActivity">
   <ScrollView
       android:id="@+id/scrollview"
@@ -12,6 +13,7 @@
       android:layout_height="match_parent"
       android:fadeScrollbars="false"
       android:scrollbars="vertical"
+      android:background="#000000"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintLeft_toLeftOf="parent"
       app:layout_constraintRight_toRightOf="parent"
@@ -21,6 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Say something!"
+        android:textColor="#FFFFFF"
         android:textSize="@dimen/text_size"/>
   </ScrollView>
 </android.support.constraint.ConstraintLayout>

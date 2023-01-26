@@ -107,9 +107,9 @@ public class MainActivity extends AppCompatActivity {
     initLanguageLocale();
   }
 
-  @Override
-  public void onStart() {
-    super.onStart();
+    @Override
+    public void onStart() {
+      super.onStart();
     if (ContextCompat.checkSelfPermission(this, Manifest.permission.RECORD_AUDIO)
         != PackageManager.PERMISSION_GRANTED) {
       ActivityCompat.requestPermissions(

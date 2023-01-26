@@ -2,7 +2,6 @@
   <library name="Gradle: android.arch.lifecycle:livedata-core:1.1.1@aar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4187a34bef796c1dcf2aa4d9f48d9fed/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4187a34bef796c1dcf2aa4d9f48d9fed/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4187a34bef796c1dcf2aa4d9f48d9fed/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />

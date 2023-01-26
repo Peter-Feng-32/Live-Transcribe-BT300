@@ -3,14 +3,37 @@ manifest
 ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/767037ce83b99ac36ffa6b765a3ca973/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0a7a01ef0a01501ee37f3d9b9aa07bb7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0f2ff23c7ffd14bd455696b7a2e8a065/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/105713943e238282ff77c4345bd9f33b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/81328c4538b6b218940826d09c8eef07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/9c718bc15cc23cc6b2ce549022191e70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/47e70267e9da77237ccb3747237df85b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/5df168cb614a2b20f02bc63c15486a18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/b4f3e9f2535fef2fef107a5e529df864/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/2fdcb407e998bb1410abbf9a659bfd80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/7dba41137496bfa177a07ce01f70d1ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/dbb774b8e7f1a31276f0670bdb66deaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/2ee7e139c1fd0e054c68207ed69b7947/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/dddb7228d373ddcbf18991c2c9eed956/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0ce868ebb6163089d2a5f1af48f5e457/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/06a3916cbd447108a03e268e776ce061/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0cf58a567ecc2e660067c20ed01ae16c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/c72dc6bcf1bbcba277585232f31596d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/518c5f4fc4f30c23313aa9373e032837/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/8867443aa832ce4d29fe1ec51a1142c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/5e1c00029745019b5cad5ac2a0735611/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/07aed8f4443585fa2db9b29edba49ec9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/358c1c455623169bf18585f83ff82a21/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/79097e4cafcbc2c2a286c425a4cbec5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/4187a34bef796c1dcf2aa4d9f48d9fed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/bff8a9836689ec29ae6d8c7ec04f25e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/bce0b1fe74635745d4325f50986e7b8a/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:3:5-31
-		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
 		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:2:1-25:12
@@ -35,6 +58,14 @@ ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/
 		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:7:20-66
 application
 ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:9:3-24:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0a7a01ef0a01501ee37f3d9b9aa07bb7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0a7a01ef0a01501ee37f3d9b9aa07bb7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/06a3916cbd447108a03e268e776ce061/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/06a3916cbd447108a03e268e776ce061/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0cf58a567ecc2e660067c20ed01ae16c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0cf58a567ecc2e660067c20ed01ae16c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/06a3916cbd447108a03e268e776ce061/AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml:14:7-33
 	android:label
@@ -67,6 +98,60 @@ uses-sdk
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/767037ce83b99ac36ffa6b765a3ca973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/767037ce83b99ac36ffa6b765a3ca973/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0a7a01ef0a01501ee37f3d9b9aa07bb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0a7a01ef0a01501ee37f3d9b9aa07bb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0f2ff23c7ffd14bd455696b7a2e8a065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0f2ff23c7ffd14bd455696b7a2e8a065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/105713943e238282ff77c4345bd9f33b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/105713943e238282ff77c4345bd9f33b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/81328c4538b6b218940826d09c8eef07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/81328c4538b6b218940826d09c8eef07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/9c718bc15cc23cc6b2ce549022191e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/9c718bc15cc23cc6b2ce549022191e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/47e70267e9da77237ccb3747237df85b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/47e70267e9da77237ccb3747237df85b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/5df168cb614a2b20f02bc63c15486a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/5df168cb614a2b20f02bc63c15486a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/b4f3e9f2535fef2fef107a5e529df864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/b4f3e9f2535fef2fef107a5e529df864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/2fdcb407e998bb1410abbf9a659bfd80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/2fdcb407e998bb1410abbf9a659bfd80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/7dba41137496bfa177a07ce01f70d1ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/7dba41137496bfa177a07ce01f70d1ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/dbb774b8e7f1a31276f0670bdb66deaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/dbb774b8e7f1a31276f0670bdb66deaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/2ee7e139c1fd0e054c68207ed69b7947/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/2ee7e139c1fd0e054c68207ed69b7947/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/dddb7228d373ddcbf18991c2c9eed956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/dddb7228d373ddcbf18991c2c9eed956/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0ce868ebb6163089d2a5f1af48f5e457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0ce868ebb6163089d2a5f1af48f5e457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/06a3916cbd447108a03e268e776ce061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/06a3916cbd447108a03e268e776ce061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0cf58a567ecc2e660067c20ed01ae16c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/0cf58a567ecc2e660067c20ed01ae16c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/c72dc6bcf1bbcba277585232f31596d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/c72dc6bcf1bbcba277585232f31596d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/518c5f4fc4f30c23313aa9373e032837/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/518c5f4fc4f30c23313aa9373e032837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/8867443aa832ce4d29fe1ec51a1142c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/8867443aa832ce4d29fe1ec51a1142c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/5e1c00029745019b5cad5ac2a0735611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/5e1c00029745019b5cad5ac2a0735611/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/07aed8f4443585fa2db9b29edba49ec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/07aed8f4443585fa2db9b29edba49ec9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/358c1c455623169bf18585f83ff82a21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/358c1c455623169bf18585f83ff82a21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/79097e4cafcbc2c2a286c425a4cbec5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/79097e4cafcbc2c2a286c425a4cbec5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/4187a34bef796c1dcf2aa4d9f48d9fed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/4187a34bef796c1dcf2aa4d9f48d9fed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/bff8a9836689ec29ae6d8c7ec04f25e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Peter/.gradle/caches/transforms-2/files-2.1/bff8a9836689ec29ae6d8c7ec04f25e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/bce0b1fe74635745d4325f50986e7b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Peter/.gradle/caches/transforms-2/files-2.1/bce0b1fe74635745d4325f50986e7b8a/AndroidManifest.xml:20:5-44
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Peter/AndroidStudioProjects/live-transcribe-speech-engine/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

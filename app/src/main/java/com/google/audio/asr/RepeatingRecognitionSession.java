@@ -36,10 +36,12 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicReference;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+//import java.util.stream.Collectors;
+//import java.util.stream.IntStream;
 import org.joda.time.Duration;
 import org.joda.time.Instant;
+import com.annimon.stream.IntStream;
+import com.annimon.stream.Collectors;
 
 /**
  * Repeatedly runs recognition sessions, starting a new session whenever one terminates, until
