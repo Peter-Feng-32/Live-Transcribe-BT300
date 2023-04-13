@@ -21,6 +21,7 @@ import static com.google.audio.asr.TranscriptionResultFormatterOptions.Transcrip
 
 import android.Manifest;
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.media.AudioFormat;
 import android.media.AudioRecord;
@@ -34,10 +35,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.text.Html;
 import android.text.InputType;
 import android.text.method.LinkMovementMethod;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
@@ -105,6 +108,12 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
     transcript = findViewById(R.id.transcript);
     initLanguageLocale();
+    Button setViewButton = (Button) findViewById(R.id.setViewButton);
+    setViewButton.setOnClickListener(new View.OnClickListener() {
+      public void onClick(View v) {
+        startActivity(new Intent(MainActivity.this, ViewSetter.class));
+      }
+    });
   }
 
     @Override
@@ -281,5 +290,9 @@ public class MainActivity extends AppCompatActivity {
   /** Gets the API key from shared preference. */
   private static String getApiKey(Context context) {
     return PreferenceManager.getDefaultSharedPreferences(context).getString(SHARE_PREF_API_KEY, "");
+  }
+
+  private void setLayout() {
+
   }
 }
